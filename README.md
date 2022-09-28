@@ -1,4 +1,4 @@
-#ESP32-S3 Mini Testboard
+# ESP32-S3 Mini Testboard
 
 Still in development. The board is JLCPCB enabled (for assembly).
 
