@@ -2,13 +2,106 @@
 FileName = board.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 13
-      File : board.GM13
+Generating : Mid Layer 2
+      File : board.GP2
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Mid Layer 2
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Mid Layer 3
+      File : board.GP3
+
+    Adding Layer      : Mid Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Mid Layer 4
+      File : board.GP4
+
+    Adding Layer      : Mid Layer 4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D90
+    D93
+    D99
+    D100
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : board.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D104
+    D105
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : board.GM2
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D11
+    D13
+    D116
 *************************************************************
 
 *************************************************************
@@ -20,20 +113,223 @@ Generating : Top Courtyard
 
 Used DCodes :
     D13
-    D119
+    D116
 *************************************************************
 
 *************************************************************
-Generating : Top Assembly
-      File : board.GM2
+Generating : Mechanical 13
+      File : board.GM13
 
-    Adding Layer      : Top Assembly
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mid Layer 1
+      File : board.GP1
+
+    Adding Layer      : Mid Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : board.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : board.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D104
+    D105
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
     D12
     D13
-    D119
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : board.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
 *************************************************************
 
 *************************************************************
@@ -82,41 +378,6 @@ Used DCodes :
     D75
     D76
     D77
-    D78
-*************************************************************
-
-*************************************************************
-Generating : Mid Layer 4
-      File : board.GP4
-
-    Adding Layer      : Mid Layer 4
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : board.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
 *************************************************************
 
 *************************************************************
@@ -133,277 +394,6 @@ Generating : Bottom Solder
 Used DCodes :
     D76
     D77
-    D78
-*************************************************************
-
-*************************************************************
-Generating : Mid Layer 2
-      File : board.GP2
-
-    Adding Layer      : Mid Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-*************************************************************
-
-*************************************************************
-Generating : Mid Layer 1
-      File : board.GP1
-
-    Adding Layer      : Mid Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : board.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Mid Layer 3
-      File : board.GP3
-
-    Adding Layer      : Mid Layer 3
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : board.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D105
-    D106
-    D107
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : board.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D91
-    D97
-    D100
-    D101
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : board.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D105
-    D106
-    D107
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : board.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
 *************************************************************
 
 *************************************************************
@@ -414,6 +404,6 @@ Generating : Mechanical 1
 
 
 Used DCodes :
-    D119
+    D116
 *************************************************************
 

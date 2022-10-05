@@ -252,6 +252,110 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\BOM\Bill of Materials-Test Board ESP32-S3 Mini.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\NC Drill\board-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\NC Drill\board-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\NC Drill\board.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GP4
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\NC Drill\board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Gerber\board.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Pick Place\Pick Place for board.csv
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Test Board ESP32-S3 Mini\Pick Place\Pick Place for board.txt
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
